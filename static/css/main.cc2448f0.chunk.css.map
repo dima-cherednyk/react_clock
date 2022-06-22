@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,EACE,QAAS,CACV,EAGC,cAAe,CACf,gBAAiB","file":"main.cc2448f0.chunk.css","sourcesContent":["* {\n  margin: 0;\n}\n\np {\n  font-size: 20px;\n  line-height: 35px;\n}\n"]}
